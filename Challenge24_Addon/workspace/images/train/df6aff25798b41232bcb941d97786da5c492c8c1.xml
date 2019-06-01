@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>df6aff25798b41232bcb941d97786da5c492c8c1.png</filename>
+	<path>in/df6aff25798b41232bcb941d97786da5c492c8c1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>badge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>85</ymin>
+			<xmax>215</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

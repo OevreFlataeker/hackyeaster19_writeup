@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>c94852714ce15cd2913966f2bca6d66a28689f4e.png</filename>
+	<path>in/c94852714ce15cd2913966f2bca6d66a28689f4e.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piggy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>76</ymin>
+			<xmax>277</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

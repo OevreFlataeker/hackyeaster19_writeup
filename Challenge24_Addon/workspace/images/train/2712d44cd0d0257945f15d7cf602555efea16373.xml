@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>2712d44cd0d0257945f15d7cf602555efea16373.png</filename>
+	<path>in/2712d44cd0d0257945f15d7cf602555efea16373.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>52</ymin>
+			<xmax>158</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

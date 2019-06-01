@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>f8050cec1bb07eb0f4f6d8cfc92c50b19ead184e.png</filename>
+	<path>in/f8050cec1bb07eb0f4f6d8cfc92c50b19ead184e.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rubik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>101</ymin>
+			<xmax>168</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

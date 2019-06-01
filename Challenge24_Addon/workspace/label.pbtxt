@@ -1,0 +1,51 @@
+item {
+	id: 1
+	name: 'egg'
+}
+
+item {
+	id: 2
+	name: 'badge'
+}
+
+item {
+	id: 3
+	name: 'lock'
+}
+
+item {
+	id: 4
+	name: 'rubik'
+}
+
+item {
+	id: 5
+	name: 'bunny'
+}
+
+item {
+	id: 6
+	name: 'ball'
+}
+
+item {
+	id: 7
+	name: 'dog'
+}
+
+item {
+	id: 8
+	name: 'handheld'
+}
+
+item {
+	id: 9
+	name: 'piggy'
+}
+
+item {
+	id: 10
+	name: 'eggw'
+}
+
+

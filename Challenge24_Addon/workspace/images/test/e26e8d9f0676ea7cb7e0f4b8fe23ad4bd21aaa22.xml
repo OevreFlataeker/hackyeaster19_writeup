@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>e26e8d9f0676ea7cb7e0f4b8fe23ad4bd21aaa22.png</filename>
+	<path>in/e26e8d9f0676ea7cb7e0f4b8fe23ad4bd21aaa22.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>84</ymin>
+			<xmax>254</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

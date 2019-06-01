@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>589484e261432181e1a226a752f841c212b66f6c.png</filename>
+	<path>in/589484e261432181e1a226a752f841c212b66f6c.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>97</ymin>
+			<xmax>290</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

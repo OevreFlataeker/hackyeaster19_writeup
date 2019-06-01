@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>c0e1f6e8e50797e64c85dc12f978b210372ce503.png</filename>
+	<path>in/c0e1f6e8e50797e64c85dc12f978b210372ce503.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>115</ymin>
+			<xmax>109</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

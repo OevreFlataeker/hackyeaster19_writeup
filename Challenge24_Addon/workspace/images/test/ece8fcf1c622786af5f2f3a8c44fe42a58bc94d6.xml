@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>ece8fcf1c622786af5f2f3a8c44fe42a58bc94d6.png</filename>
+	<path>in/ece8fcf1c622786af5f2f3a8c44fe42a58bc94d6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handheld</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>5</ymin>
+			<xmax>300</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

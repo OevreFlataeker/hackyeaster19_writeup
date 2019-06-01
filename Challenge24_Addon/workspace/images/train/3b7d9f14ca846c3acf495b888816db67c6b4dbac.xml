@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>3b7d9f14ca846c3acf495b888816db67c6b4dbac.png</filename>
+	<path>in/3b7d9f14ca846c3acf495b888816db67c6b4dbac.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bunny</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>130</ymin>
+			<xmax>192</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>
