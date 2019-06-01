@@ -1,0 +1,42 @@
+
+<html>
+<script type="text/javascript">
+
+let s = 1;
+let theBoxOfCarrots = [
+			[20, ""],
+			[10, ""],
+			[5, ""],
+			[12, ""]
+			];
+
+			int age = 0;
+            let tell_a_story = () => {
+                while (age <= 20) {
+				
+					s += 1;
+					s += 1;
+					debugger;
+					console.log(s);
+					
+					theBoxOfCarrots.forEach((o, i) => {
+                        o[0] = o[0] + Math.abs(Math.floor(Math.sin(s) * 20));
+						s = o[0];
+                    });
+
+                    theBoxOfCarrots.forEach((o, i) => {
+                        theBoxOfCarrots[i][1] += (i + ".");
+                    });
+					
+					s += 1;
+					
+					theBoxOfCarrots.sort((a, b) => {
+						return a[0] - b[0];
+					});
+				
+					age += 1;
+                }
+            };
+			tell_a_story();
+ </script>
+		</html>

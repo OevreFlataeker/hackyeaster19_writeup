@@ -1,0 +1,42 @@
+emirp^x % prime = c challenge:
+llluurrruullluurrruulllllddddddddddrrrrrrrrrrddlllldddrrulluurrrruuuuuu
+
+X = Simon's eyes
+10th row 47 col
+
+C = Cottontail v1
+8th row 54th col
+
+
+https://www.alpertron.com.ar/DILOG.HTM
+
+first numbers:
+-------------------
+base= 71140253671
+Power=419785298
+modulus=17635204117
+
+Find exp such that 71140 253671exp ≡ 419 785298 (mod 17635 204117)
+
+exp = 1647592057 + 4408 801029k
+
+print(hex(1647592057))
+x1=0x62344279
+
+second numbers:
+-------------------
+base= 9125723306591
+power=611096952820
+modulus= 1956033275219
+
+Find exp such that 9 125723 306591exp ≡ 611096 952820 (mod 1 956033 275219)
+
+exp = 305768189495 + 978016 637609k
+
+print(hex(305768189495))
+x2=0x4731344e37
+
+concat
+0x623442794731344e37 -> b4ByG14N7
+
+

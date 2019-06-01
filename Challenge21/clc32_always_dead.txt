@@ -1,0 +1,342 @@
+Raw JSON: {u'data': {u'In': {u'taste': u'o', u'see': u'U', u'hear': u'8', u'touch': u'j', u'smell': u'b', u'Out': {u'taste': u'J', u'smell': u'E', u'see': u'D', u'hear': u'a', u'touch': u'Q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'c', u'see': u'7', u'hear': u'g', u'touch': u'Y', u'smell': u'a', u'Out': {u'taste': u'R', u'smell': u'Z', u'see': u'l', u'hear': u'H', u'touch': u'K'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Q', u'see': u'Q', u'hear': u'j', u'touch': u'8', u'smell': u'v', u'Out': {u'taste': u'z', u'smell': u'w', u'see': u'U', u'hear': u't', u'touch': u'3'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'1', u'see': u'j', u'hear': u'B', u'touch': u'I', u'smell': u'I', u'Out': {u'taste': u'6', u'smell': u'L', u'see': u'R', u'hear': u'g', u'touch': u'Y'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'H', u'see': u'H', u'hear': u'q', u'touch': u'W', u'smell': u'9', u'Out': {u'taste': u'9', u'smell': u'8', u'see': u'X', u'hear': u'z', u'touch': u'a'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u'5', u'hear': u'l', u'touch': u'j', u'smell': u'N', u'Out': {u'taste': u'Q', u'smell': u'f', u'see': u'x', u'hear': u'n', u'touch': u'v'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'W', u'see': u't', u'hear': u'j', u'touch': u'X', u'smell': u'f', u'Out': {u'taste': u'L', u'smell': u'z', u'see': u'z', u'hear': u'd', u'touch': u'I'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'z', u'see': u'C', u'hear': u'7', u'touch': u'A', u'smell': u'r', u'Out': {u'taste': u'b', u'smell': u'k', u'see': u'S', u'hear': u'Z', u'touch': u'R'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'8', u'see': u'O', u'hear': u'7', u'touch': u'D', u'smell': u'r', u'Out': {u'taste': u'A', u'smell': u'S', u'see': u'K', u'hear': u'A', u'touch': u'n'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'K', u'see': u'X', u'hear': u'q', u'touch': u'y', u'smell': u'v', u'Out': {u'taste': u'Q', u'smell': u'O', u'see': u'0', u'hear': u'r', u'touch': u'4'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'v', u'see': u'P', u'hear': u'D', u'touch': u'a', u'smell': u'r', u'Out': {u'taste': u'S', u'smell': u'S', u'see': u'S', u'hear': u'S', u'touch': u'S'}}}}
+Found in 'out': S
+Raw JSON: {u'data': {u'In': {u'taste': u'g', u'see': u'C', u'hear': u'l', u'touch': u'c', u'smell': u'n', u'Out': {u'taste': u'Y', u'smell': u'R', u'see': u'Q', u'hear': u'9', u'touch': u'1'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Z', u'see': u'w', u'hear': u'4', u'touch': u'8', u'smell': u'9', u'Out': {u'taste': u'3', u'smell': u'i', u'see': u'9', u'hear': u'r', u'touch': u'q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'h', u'see': u'h', u'hear': u'h', u'touch': u'h', u'smell': u'h', u'Out': {u'taste': u'e', u'smell': u'P', u'see': u'i', u'hear': u'z', u'touch': u'6'}}}}
+Found in 'in': h
+Raw JSON: {u'data': {u'In': {u'taste': u'O', u'see': u'e', u'hear': u'A', u'touch': u'Q', u'smell': u's', u'Out': {u'taste': u'5', u'smell': u'H', u'see': u'p', u'hear': u'Q', u'touch': u'o'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'1', u'see': u'2', u'hear': u'Y', u'touch': u'm', u'smell': u'1', u'Out': {u'taste': u'D', u'smell': u'L', u'see': u'e', u'hear': u'A', u'touch': u'E'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'd', u'see': u't', u'hear': u'J', u'touch': u'n', u'smell': u'A', u'Out': {u'taste': u't', u'smell': u'C', u'see': u'G', u'hear': u'C', u'touch': u'H'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'g', u'see': u'j', u'hear': u'5', u'touch': u'0', u'smell': u'z', u'Out': {u'taste': u'h', u'smell': u'm', u'see': u'f', u'hear': u'W', u'touch': u'6'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'K', u'see': u'q', u'hear': u'y', u'touch': u'z', u'smell': u'l', u'Out': {u'taste': u'g', u'smell': u'V', u'see': u'e', u'hear': u'4', u'touch': u'4'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'p', u'see': u'Z', u'hear': u'Z', u'touch': u'Z', u'smell': u'Z', u'Out': {u'taste': u'3', u'smell': u'H', u'see': u'0', u'hear': u'V', u'touch': u'3'}}}}
+Found in 'in': Z
+Raw JSON: {u'data': {u'In': {u'taste': u'O', u'see': u'b', u'hear': u'w', u'touch': u'a', u'smell': u'o', u'Out': {u'taste': u'3', u'smell': u'u', u'see': u'j', u'hear': u'0', u'touch': u'X'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u't', u'hear': u't', u'touch': u't', u'smell': u't', u'Out': {u'taste': u'K', u'smell': u'3', u'see': u'c', u'hear': u'V', u'touch': u'o'}}}}
+Found in 'in': t
+Raw JSON: {u'data': {u'In': {u'taste': u'l', u'see': u'e', u'hear': u'2', u'touch': u'A', u'smell': u'I', u'Out': {u'taste': u'G', u'smell': u'4', u'see': u'G', u'hear': u'5', u'touch': u'6'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'a', u'hear': u'h', u'touch': u'd', u'smell': u'e', u'Out': {u'taste': u'a', u'smell': u'h', u'see': u't', u'hear': u'd', u'touch': u'e'}}}}
+Oh oh! Dead! Reset!
+Raw JSON: {u'data': {u'In': {u'taste': u'4', u'see': u'Y', u'hear': u'z', u'touch': u'3', u'smell': u'U', u'Out': {u'taste': u'x', u'smell': u'a', u'see': u'w', u'hear': u'm', u'touch': u'l'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'A', u'see': u'e', u'hear': u'G', u'touch': u'1', u'smell': u'G', u'Out': {u'taste': u'7', u'smell': u'a', u'see': u'R', u'hear': u'X', u'touch': u'N'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'U', u'see': u'8', u'hear': u'D', u'touch': u's', u'smell': u'T', u'Out': {u'taste': u'w', u'smell': u'P', u'see': u'L', u'hear': u'r', u'touch': u'w'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'9', u'see': u'j', u'hear': u'5', u'touch': u'o', u'smell': u'3', u'Out': {u'taste': u'X', u'smell': u'b', u'see': u'b', u'hear': u'C', u'touch': u'b'}}}}
+Found in 'out': b
+Raw JSON: {u'data': {u'In': {u'taste': u'5', u'see': u'5', u'hear': u'5', u'touch': u'5', u'smell': u'5', u'Out': {u'taste': u'2', u'smell': u'Y', u'see': u'Y', u'hear': u'Y', u'touch': u'Y'}}}}
+Found in 'in': 5
+Found in 'out': Y
+Raw JSON: {u'data': {u'In': {u'taste': u'r', u'see': u'A', u'hear': u'D', u'touch': u'G', u'smell': u'E', u'Out': {u'taste': u'6', u'smell': u'6', u'see': u'f', u'hear': u'W', u'touch': u'Q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'H', u'see': u'8', u'hear': u'z', u'touch': u'Z', u'smell': u'K', u'Out': {u'taste': u'a', u'smell': u'9', u'see': u'4', u'hear': u'h', u'touch': u'C'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'g', u'see': u'8', u'hear': u'F', u'touch': u'F', u'smell': u'Y', u'Out': {u'taste': u'o', u'smell': u'e', u'see': u'4', u'hear': u't', u'touch': u'A'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'A', u'see': u'N', u'hear': u'i', u'touch': u's', u'smell': u'F', u'Out': {u'taste': u't', u'smell': u'4', u'see': u'P', u'hear': u'x', u'touch': u'I'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'e', u'see': u'B', u'hear': u'B', u'touch': u'B', u'smell': u'B', u'Out': {u'taste': u'a', u'smell': u'A', u'see': u'V', u'hear': u'W', u'touch': u'p'}}}}
+Found in 'in': B
+Raw JSON: {u'data': {u'In': {u'taste': u'a', u'see': u'e', u'hear': u'h', u'touch': u't', u'smell': u'd', u'Out': {u'taste': u'a', u'smell': u'e', u'see': u'd', u'hear': u't', u'touch': u'h'}}}}
+Oh oh! Dead! Reset!
+Raw JSON: {u'data': {u'In': {u'taste': u'0', u'see': u'a', u'hear': u'C', u'touch': u'n', u'smell': u'u', u'Out': {u'taste': u'P', u'smell': u'5', u'see': u'e', u'hear': u'Q', u'touch': u'v'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'8', u'see': u'X', u'hear': u'5', u'touch': u'C', u'smell': u'O', u'Out': {u'taste': u'F', u'smell': u'2', u'see': u'a', u'hear': u'a', u'touch': u'z'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'w', u'see': u'U', u'hear': u'J', u'touch': u'Z', u'smell': u'F', u'Out': {u'taste': u'm', u'smell': u'x', u'see': u'G', u'hear': u'r', u'touch': u'8'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'h', u'see': u'S', u'hear': u'p', u'touch': u'y', u'smell': u'M', u'Out': {u'taste': u'F', u'smell': u'X', u'see': u'm', u'hear': u'm', u'touch': u'U'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'0', u'see': u'q', u'hear': u'x', u'touch': u'e', u'smell': u'x', u'Out': {u'taste': u'm', u'smell': u'k', u'see': u'k', u'hear': u'k', u'touch': u'7'}}}}
+Found in 'out': k
+Raw JSON: {u'data': {u'In': {u'taste': u'5', u'see': u'5', u'hear': u'5', u'touch': u'T', u'smell': u'5', u'Out': {u'taste': u'A', u'smell': u'C', u'see': u'S', u'hear': u'Y', u'touch': u'T'}}}}
+Found in 'in': 5
+Raw JSON: {u'data': {u'In': {u'taste': u'o', u'see': u'y', u'hear': u'X', u'touch': u'M', u'smell': u'w', u'Out': {u'taste': u'd', u'smell': u'1', u'see': u't', u'hear': u'E', u'touch': u'R'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Y', u'see': u'S', u'hear': u'i', u'touch': u'B', u'smell': u'2', u'Out': {u'taste': u'R', u'smell': u'o', u'see': u'w', u'hear': u'c', u'touch': u'Z'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'4', u'see': u'c', u'hear': u'Z', u'touch': u'M', u'smell': u'Z', u'Out': {u'taste': u'v', u'smell': u'G', u'see': u'u', u'hear': u'b', u'touch': u'E'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'B', u'see': u'a', u'hear': u'C', u'touch': u'O', u'smell': u'B', u'Out': {u'taste': u'I', u'smell': u'J', u'see': u'x', u'hear': u'9', u'touch': u'z'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'l', u'see': u'W', u'hear': u'G', u'touch': u'f', u'smell': u'6', u'Out': {u'taste': u'g', u'smell': u'7', u'see': u'I', u'hear': u'h', u'touch': u'Q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'P', u'see': u'C', u'hear': u'I', u'touch': u'f', u'smell': u'f', u'Out': {u'taste': u'q', u'smell': u'6', u'see': u'G', u'hear': u'f', u'touch': u'n'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'N', u'see': u'N', u'hear': u'3', u'touch': u'N', u'smell': u'N', u'Out': {u'taste': u't', u'smell': u'0', u'see': u'Y', u'hear': u'b', u'touch': u'K'}}}}
+Found in 'in': N
+Raw JSON: {u'data': {u'In': {u'taste': u'J', u'see': u'd', u'hear': u'H', u'touch': u'd', u'smell': u'd', u'Out': {u'taste': u'v', u'smell': u'b', u'see': u'l', u'hear': u'i', u'touch': u'u'}}}}
+Found in 'in': d
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u'M', u'hear': u'x', u'touch': u'B', u'smell': u'N', u'Out': {u'taste': u'5', u'smell': u'g', u'see': u'E', u'hear': u'O', u'touch': u'w'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'e', u'hear': u'd', u'touch': u'h', u'smell': u'a', u'Out': {u'taste': u'e', u'smell': u'a', u'see': u't', u'hear': u'h', u'touch': u'd'}}}}
+Oh oh! Dead! Reset!
+Raw JSON: {u'data': {u'In': {u'taste': u'B', u'see': u's', u'hear': u'Z', u'touch': u'm', u'smell': u'w', u'Out': {u'taste': u'1', u'smell': u'b', u'see': u'1', u'hear': u'c', u'touch': u'w'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'5', u'see': u'Y', u'hear': u'5', u'touch': u'p', u'smell': u'8', u'Out': {u'taste': u'j', u'smell': u'D', u'see': u'd', u'hear': u'0', u'touch': u'z'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'N', u'see': u'y', u'hear': u'C', u'touch': u's', u'smell': u'P', u'Out': {u'taste': u'3', u'smell': u'y', u'see': u'D', u'hear': u'8', u'touch': u'j'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'm', u'see': u'g', u'hear': u'M', u'touch': u'X', u'smell': u'C', u'Out': {u'taste': u'H', u'smell': u'y', u'see': u'S', u'hear': u'V', u'touch': u'u'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'4', u'see': u'Z', u'hear': u'7', u'touch': u'7', u'smell': u'u', u'Out': {u'taste': u'I', u'smell': u'p', u'see': u'a', u'hear': u'U', u'touch': u'7'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u't', u'hear': u'n', u'touch': u'q', u'smell': u'Q', u'Out': {u'taste': u'w', u'smell': u'5', u'see': u'O', u'hear': u't', u'touch': u'e'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'F', u'see': u'X', u'hear': u'X', u'touch': u'N', u'smell': u'm', u'Out': {u'taste': u'x', u'smell': u'd', u'see': u'W', u'hear': u'W', u'touch': u'B'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'L', u'see': u'S', u'hear': u'H', u'touch': u'9', u'smell': u'l', u'Out': {u'taste': u'b', u'smell': u'a', u'see': u'N', u'hear': u'U', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'T', u'see': u'y', u'hear': u'3', u'touch': u'5', u'smell': u's', u'Out': {u'taste': u'a', u'smell': u'e', u'see': u'w', u'hear': u'J', u'touch': u'X'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'M', u'see': u'N', u'hear': u'g', u'touch': u'J', u'smell': u'A', u'Out': {u'taste': u'o', u'smell': u'P', u'see': u'I', u'hear': u'z', u'touch': u'D'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'd', u'see': u'D', u'hear': u'P', u'touch': u'Y', u'smell': u'T', u'Out': {u'taste': u'E', u'smell': u'P', u'see': u'h', u'hear': u'k', u'touch': u'p'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'u', u'see': u'H', u'hear': u'S', u'touch': u'I', u'smell': u'u', u'Out': {u'taste': u's', u'smell': u'Y', u'see': u'C', u'hear': u'l', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'u', u'see': u'n', u'hear': u'f', u'touch': u'T', u'smell': u's', u'Out': {u'taste': u'9', u'smell': u'j', u'see': u'k', u'hear': u'8', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'W', u'see': u'P', u'hear': u'F', u'touch': u'P', u'smell': u'n', u'Out': {u'taste': u'p', u'smell': u'p', u'see': u'p', u'hear': u'k', u'touch': u'p'}}}}
+Found in 'out': p
+Raw JSON: {u'data': {u'In': {u'taste': u'x', u'see': u'd', u'hear': u'x', u'touch': u'S', u'smell': u'F', u'Out': {u'taste': u'R', u'smell': u'Z', u'see': u'S', u'hear': u'x', u'touch': u'J'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'h', u'see': u'F', u'hear': u'F', u'touch': u'9', u'smell': u'z', u'Out': {u'taste': u'F', u'smell': u'q', u'see': u'e', u'hear': u'T', u'touch': u't'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'V', u'see': u'r', u'hear': u'H', u'touch': u'e', u'smell': u'r', u'Out': {u'taste': u'D', u'smell': u'T', u'see': u'A', u'hear': u'5', u'touch': u's'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'A', u'see': u'r', u'hear': u'8', u'touch': u'6', u'smell': u'p', u'Out': {u'taste': u'3', u'smell': u'6', u'see': u'j', u'hear': u'K', u'touch': u'g'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'h', u'see': u'f', u'hear': u'8', u'touch': u'C', u'smell': u'K', u'Out': {u'taste': u'L', u'smell': u'v', u'see': u'9', u'hear': u'O', u'touch': u'n'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'H', u'see': u'6', u'hear': u'o', u'touch': u'o', u'smell': u'q', u'Out': {u'taste': u'p', u'smell': u'l', u'see': u'T', u'hear': u'Q', u'touch': u'A'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'J', u'see': u'a', u'hear': u'B', u'touch': u'c', u'smell': u'q', u'Out': {u'taste': u'R', u'smell': u'a', u'see': u'D', u'hear': u'j', u'touch': u'5'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'S', u'see': u'S', u'hear': u'S', u'touch': u'7', u'smell': u'S', u'Out': {u'taste': u'q', u'smell': u'r', u'see': u'2', u'hear': u'R', u'touch': u'P'}}}}
+Found in 'in': S
+Raw JSON: {u'data': {u'In': {u'taste': u'7', u'see': u'U', u'hear': u'8', u'touch': u'Y', u'smell': u'4', u'Out': {u'taste': u'Q', u'smell': u'I', u'see': u'7', u'hear': u'Q', u'touch': u'1'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'K', u'see': u'9', u'hear': u'H', u'touch': u'J', u'smell': u'm', u'Out': {u'taste': u'6', u'smell': u'6', u'see': u'6', u'hear': u'6', u'touch': u'6'}}}}
+Found in 'out': 6
+Raw JSON: {u'data': {u'In': {u'taste': u'R', u'see': u'9', u'hear': u'V', u'touch': u'Q', u'smell': u'g', u'Out': {u'taste': u'5', u'smell': u'C', u'see': u'e', u'hear': u'v', u'touch': u't'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'c', u'see': u'K', u'hear': u'J', u'touch': u'w', u'smell': u'X', u'Out': {u'taste': u'd', u'smell': u'P', u'see': u'V', u'hear': u'G', u'touch': u'h'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'E', u'see': u'k', u'hear': u'E', u'touch': u'w', u'smell': u'z', u'Out': {u'taste': u'A', u'smell': u'N', u'see': u'o', u'hear': u'N', u'touch': u'J'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'N', u'see': u'v', u'hear': u'a', u'touch': u'z', u'smell': u'h', u'Out': {u'taste': u'C', u'smell': u'k', u'see': u'K', u'hear': u'w', u'touch': u'K'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'C', u'see': u'Q', u'hear': u'T', u'touch': u'4', u'smell': u's', u'Out': {u'taste': u'k', u'smell': u'I', u'see': u'M', u'hear': u'T', u'touch': u'q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'k', u'see': u'C', u'hear': u'0', u'touch': u'F', u'smell': u'z', u'Out': {u'taste': u'G', u'smell': u'9', u'see': u'A', u'hear': u'Y', u'touch': u'K'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u'R', u'hear': u'n', u'touch': u'G', u'smell': u'9', u'Out': {u'taste': u'B', u'smell': u'9', u'see': u'2', u'hear': u'x', u'touch': u'H'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'k', u'see': u'3', u'hear': u'p', u'touch': u'7', u'smell': u'I', u'Out': {u'taste': u'f', u'smell': u'h', u'see': u'f', u'hear': u'S', u'touch': u'6'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'j', u'see': u'0', u'hear': u'j', u'touch': u'U', u'smell': u'5', u'Out': {u'taste': u'v', u'smell': u'Z', u'see': u'a', u'hear': u'R', u'touch': u'R'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'R', u'see': u'X', u'hear': u'x', u'touch': u'l', u'smell': u'w', u'Out': {u'taste': u'o', u'smell': u'o', u'see': u'o', u'hear': u'o', u'touch': u'o'}}}}
+Found in 'out': o
+Raw JSON: {u'data': {u'In': {u'taste': u'I', u'see': u'v', u'hear': u'X', u'touch': u'V', u'smell': u'7', u'Out': {u'taste': u'6', u'smell': u'J', u'see': u'b', u'hear': u'g', u'touch': u'G'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'x', u'see': u'Q', u'hear': u'P', u'touch': u'l', u'smell': u'z', u'Out': {u'taste': u'M', u'smell': u'v', u'see': u'6', u'hear': u'l', u'touch': u'e'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'X', u'see': u'q', u'hear': u'f', u'touch': u'O', u'smell': u'V', u'Out': {u'taste': u'p', u'smell': u'V', u'see': u'f', u'hear': u'V', u'touch': u'H'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'r', u'see': u'K', u'hear': u'b', u'touch': u'b', u'smell': u'9', u'Out': {u'taste': u'g', u'smell': u'W', u'see': u'B', u'hear': u'A', u'touch': u'e'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'2', u'see': u'p', u'hear': u'A', u'touch': u'x', u'smell': u'l', u'Out': {u'taste': u't', u'smell': u'C', u'see': u'J', u'hear': u'f', u'touch': u'n'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'a', u'see': u'h', u'hear': u'd', u'touch': u't', u'smell': u'e', u'Out': {u'taste': u'd', u'smell': u'a', u'see': u'e', u'hear': u't', u'touch': u'h'}}}}
+Oh oh! Dead! Reset!
+Raw JSON: {u'data': {u'In': {u'taste': u'd', u'see': u'w', u'hear': u'H', u'touch': u'5', u'smell': u'n', u'Out': {u'taste': u'1', u'smell': u'C', u'see': u'T', u'hear': u'k', u'touch': u'T'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'4', u'see': u'a', u'hear': u'b', u'touch': u'K', u'smell': u'c', u'Out': {u'taste': u'v', u'smell': u'd', u'see': u's', u'hear': u'm', u'touch': u'E'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'H', u'see': u'D', u'hear': u'Q', u'touch': u'H', u'smell': u'C', u'Out': {u'taste': u'p', u'smell': u'b', u'see': u'W', u'hear': u'w', u'touch': u'5'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'F', u'see': u'F', u'hear': u'x', u'touch': u'o', u'smell': u'M', u'Out': {u'taste': u'w', u'smell': u'7', u'see': u'i', u'hear': u'N', u'touch': u'e'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'n', u'see': u'P', u'hear': u'G', u'touch': u'T', u'smell': u'L', u'Out': {u'taste': u'r', u'smell': u't', u'see': u'X', u'hear': u'8', u'touch': u'T'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'y', u'see': u'5', u'hear': u'r', u'touch': u'w', u'smell': u'j', u'Out': {u'taste': u'e', u'smell': u'v', u'see': u'W', u'hear': u'p', u'touch': u'x'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u'Q', u'hear': u'Y', u'touch': u'u', u'smell': u'O', u'Out': {u'taste': u'k', u'smell': u'1', u'see': u'U', u'hear': u'Z', u'touch': u'A'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'P', u'see': u'f', u'hear': u'y', u'touch': u'j', u'smell': u'S', u'Out': {u'taste': u'I', u'smell': u'0', u'see': u'F', u'hear': u'D', u'touch': u'm'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u'l', u'hear': u'o', u'touch': u'y', u'smell': u'O', u'Out': {u'taste': u'6', u'smell': u'6', u'see': u'6', u'hear': u'6', u'touch': u'6'}}}}
+Found in 'out': 6
+Raw JSON: {u'data': {u'In': {u'taste': u'j', u'see': u'z', u'hear': u'1', u'touch': u'u', u'smell': u'3', u'Out': {u'taste': u'M', u'smell': u'i', u'see': u'O', u'hear': u'i', u'touch': u'o'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'c', u'see': u'5', u'hear': u'8', u'touch': u'L', u'smell': u'J', u'Out': {u'taste': u'j', u'smell': u'w', u'see': u'o', u'hear': u'z', u'touch': u'U'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'0', u'see': u'P', u'hear': u'B', u'touch': u'0', u'smell': u'l', u'Out': {u'taste': u'b', u'smell': u'V', u'see': u'J', u'hear': u'U', u'touch': u'V'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'x', u'see': u'm', u'hear': u'p', u'touch': u'T', u'smell': u'9', u'Out': {u'taste': u'Z', u'smell': u'u', u'see': u'p', u'hear': u'p', u'touch': u'p'}}}}
+Found in 'out': p
+Raw JSON: {u'data': {u'In': {u'taste': u'1', u'see': u'7', u'hear': u'Y', u'touch': u'o', u'smell': u'y', u'Out': {u'taste': u'c', u'smell': u'u', u'see': u'9', u'hear': u'd', u'touch': u'4'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'c', u'see': u'j', u'hear': u'm', u'touch': u'L', u'smell': u'6', u'Out': {u'taste': u'e', u'smell': u'X', u'see': u'5', u'hear': u'z', u'touch': u'V'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'j', u'see': u'K', u'hear': u's', u'touch': u'A', u'smell': u'5', u'Out': {u'taste': u'C', u'smell': u'O', u'see': u'H', u'hear': u'H', u'touch': u'J'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u'g', u'hear': u'f', u'touch': u'Y', u'smell': u'A', u'Out': {u'taste': u's', u'smell': u'h', u'see': u'O', u'hear': u'X', u'touch': u't'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'0', u'see': u'm', u'hear': u'6', u'touch': u'k', u'smell': u'e', u'Out': {u'taste': u'4', u'smell': u'F', u'see': u'k', u'hear': u'3', u'touch': u'z'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'B', u'see': u'L', u'hear': u'v', u'touch': u'4', u'smell': u'w', u'Out': {u'taste': u'S', u'smell': u'S', u'see': u'V', u'hear': u'x', u'touch': u'D'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'D', u'see': u'J', u'hear': u'5', u'touch': u'F', u'smell': u'A', u'Out': {u'taste': u'y', u'smell': u'1', u'see': u'y', u'hear': u'U', u'touch': u'g'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'U', u'see': u'U', u'hear': u'U', u'touch': u'U', u'smell': u'U', u'Out': {u'taste': u'L', u'smell': u'k', u'see': u'w', u'hear': u'Q', u'touch': u't'}}}}
+Found in 'in': U
+Raw JSON: {u'data': {u'In': {u'taste': u'N', u'see': u'q', u'hear': u'C', u'touch': u'9', u'smell': u'h', u'Out': {u'taste': u'4', u'smell': u'3', u'see': u'y', u'hear': u'3', u'touch': u'2'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'v', u'hear': u'8', u'touch': u'I', u'smell': u'Q', u'Out': {u'taste': u'o', u'smell': u'a', u'see': u'D', u'hear': u'g', u'touch': u'U'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'R', u'see': u'o', u'hear': u'R', u'touch': u'I', u'smell': u'v', u'Out': {u'taste': u'p', u'smell': u'j', u'see': u'B', u'hear': u'W', u'touch': u'C'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'P', u'see': u'n', u'hear': u'r', u'touch': u'x', u'smell': u'u', u'Out': {u'taste': u'3', u'smell': u'0', u'see': u'x', u'hear': u'n', u'touch': u'l'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'N', u'see': u'r', u'hear': u'J', u'touch': u't', u'smell': u'3', u'Out': {u'taste': u'e', u'smell': u'D', u'see': u'W', u'hear': u'5', u'touch': u'a'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'3', u'see': u'X', u'hear': u'C', u'touch': u'D', u'smell': u'4', u'Out': {u'taste': u'e', u'smell': u'2', u'see': u'v', u'hear': u'r', u'touch': u'd'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'k', u'see': u'G', u'hear': u'w', u'touch': u'L', u'smell': u'L', u'Out': {u'taste': u'6', u'smell': u'7', u'see': u'7', u'hear': u'H', u'touch': u'u'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Q', u'see': u'9', u'hear': u'd', u'touch': u'8', u'smell': u'i', u'Out': {u'taste': u'U', u'smell': u'U', u'see': u'z', u'hear': u'c', u'touch': u'T'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'M', u'see': u'5', u'hear': u'5', u'touch': u'V', u'smell': u'5', u'Out': {u'taste': u'f', u'smell': u'f', u'see': u'z', u'hear': u'Z', u'touch': u'S'}}}}
+Found in 'in': 5
+Raw JSON: {u'data': {u'In': {u'taste': u'b', u'see': u'T', u'hear': u'v', u'touch': u'W', u'smell': u'l', u'Out': {u'taste': u'r', u'smell': u'M', u'see': u'Y', u'hear': u'9', u'touch': u'k'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'e', u'see': u'Q', u'hear': u'E', u'touch': u'B', u'smell': u'6', u'Out': {u'taste': u'k', u'smell': u'6', u'see': u'X', u'hear': u'X', u'touch': u'S'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'U', u'see': u'E', u'hear': u'j', u'touch': u'9', u'smell': u'i', u'Out': {u'taste': u'7', u'smell': u'O', u'see': u'H', u'hear': u'2', u'touch': u'0'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'R', u'see': u'A', u'hear': u'D', u'touch': u'M', u'smell': u'n', u'Out': {u'taste': u't', u'smell': u'V', u'see': u'w', u'hear': u'1', u'touch': u'w'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'v', u'see': u'5', u'hear': u'A', u'touch': u'A', u'smell': u'l', u'Out': {u'taste': u'S', u'smell': u'c', u'see': u'J', u'hear': u'8', u'touch': u'V'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'c', u'see': u'h', u'hear': u'C', u'touch': u'H', u'smell': u'R', u'Out': {u'taste': u'a', u'smell': u'3', u'see': u'f', u'hear': u'p', u'touch': u'3'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'u', u'hear': u'g', u'touch': u'3', u'smell': u'2', u'Out': {u'taste': u'Q', u'smell': u'H', u'see': u'A', u'hear': u'O', u'touch': u'Q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'i', u'see': u'y', u'hear': u'M', u'touch': u'K', u'smell': u'K', u'Out': {u'taste': u'E', u'smell': u'2', u'see': u'I', u'hear': u'U', u'touch': u'y'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'6', u'see': u'U', u'hear': u'm', u'touch': u'V', u'smell': u'H', u'Out': {u'taste': u'4', u'smell': u'1', u'see': u'8', u'hear': u'r', u'touch': u'l'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'g', u'see': u'G', u'hear': u'f', u'touch': u'Q', u'smell': u's', u'Out': {u'taste': u'F', u'smell': u'k', u'see': u'5', u'hear': u'u', u'touch': u'8'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'U', u'see': u'6', u'hear': u'5', u'touch': u'E', u'smell': u'O', u'Out': {u'taste': u'9', u'smell': u'v', u'see': u'G', u'hear': u'B', u'touch': u'H'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Z', u'see': u'c', u'hear': u'h', u'touch': u'U', u'smell': u'h', u'Out': {u'taste': u'6', u'smell': u'E', u'see': u'1', u'hear': u'l', u'touch': u'q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'h', u'see': u'2', u'hear': u'Y', u'touch': u'y', u'smell': u'l', u'Out': {u'taste': u'C', u'smell': u't', u'see': u'V', u'hear': u'K', u'touch': u'F'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'F', u'see': u'o', u'hear': u'2', u'touch': u'y', u'smell': u'i', u'Out': {u'taste': u'd', u'smell': u'a', u'see': u'0', u'hear': u'M', u'touch': u'H'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'c', u'see': u'n', u'hear': u'X', u'touch': u'R', u'smell': u'0', u'Out': {u'taste': u'e', u'smell': u'9', u'see': u'I', u'hear': u'r', u'touch': u'e'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'B', u'see': u'P', u'hear': u'X', u'touch': u'3', u'smell': u'V', u'Out': {u'taste': u'M', u'smell': u'J', u'see': u'Y', u'hear': u'q', u'touch': u'H'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Y', u'see': u'z', u'hear': u'B', u'touch': u'o', u'smell': u'D', u'Out': {u'taste': u'x', u'smell': u'6', u'see': u'o', u'hear': u'N', u'touch': u'2'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u'c', u'hear': u'2', u'touch': u'0', u'smell': u'v', u'Out': {u'taste': u'4', u'smell': u'n', u'see': u'H', u'hear': u'N', u'touch': u'U'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'h', u'see': u'a', u'hear': u'd', u'touch': u'e', u'smell': u't', u'Out': {u'taste': u't', u'smell': u'a', u'see': u'e', u'hear': u'd', u'touch': u'h'}}}}
+Oh oh! Dead! Reset!
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'K', u'hear': u's', u'touch': u'3', u'smell': u'3', u'Out': {u'taste': u'l', u'smell': u'G', u'see': u'W', u'hear': u'f', u'touch': u'q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'w', u'see': u'6', u'hear': u'7', u'touch': u'2', u'smell': u'c', u'Out': {u'taste': u'T', u'smell': u'T', u'see': u'8', u'hear': u'2', u'touch': u'A'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'i', u'see': u'u', u'hear': u'p', u'touch': u'K', u'smell': u'K', u'Out': {u'taste': u'7', u'smell': u'6', u'see': u'e', u'hear': u'R', u'touch': u'P'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'X', u'see': u'v', u'hear': u'M', u'touch': u'8', u'smell': u'1', u'Out': {u'taste': u'6', u'smell': u'g', u'see': u'g', u'hear': u'3', u'touch': u'u'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'g', u'see': u'j', u'hear': u'y', u'touch': u'j', u'smell': u'n', u'Out': {u'taste': u'J', u'smell': u'W', u'see': u'D', u'hear': u'p', u'touch': u'O'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'6', u'see': u'N', u'hear': u'd', u'touch': u'W', u'smell': u'3', u'Out': {u'taste': u'x', u'smell': u'G', u'see': u'c', u'hear': u'p', u'touch': u'0'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'R', u'see': u'2', u'hear': u'6', u'touch': u'e', u'smell': u'L', u'Out': {u'taste': u'4', u'smell': u'M', u'see': u'Q', u'hear': u'R', u'touch': u'2'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'a', u'see': u'e', u'hear': u'B', u'touch': u't', u'smell': u'v', u'Out': {u'taste': u'w', u'smell': u'a', u'see': u'b', u'hear': u'H', u'touch': u'c'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'i', u'see': u'7', u'hear': u'k', u'touch': u'f', u'smell': u'G', u'Out': {u'taste': u'f', u'smell': u'w', u'see': u'K', u'hear': u'S', u'touch': u'6'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Z', u'see': u'8', u'hear': u'C', u'touch': u'S', u'smell': u'X', u'Out': {u'taste': u'a', u'smell': u'X', u'see': u'a', u'hear': u'8', u'touch': u'a'}}}}
+Found in 'out': a
+Raw JSON: {u'data': {u'In': {u'taste': u'5', u'see': u'r', u'hear': u'g', u'touch': u'T', u'smell': u'T', u'Out': {u'taste': u'O', u'smell': u'3', u'see': u'P', u'hear': u'o', u'touch': u'L'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'L', u'see': u'M', u'hear': u'H', u'touch': u's', u'smell': u'C', u'Out': {u'taste': u'f', u'smell': u'v', u'see': u'b', u'hear': u'B', u'touch': u'4'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'U', u'see': u'0', u'hear': u'2', u'touch': u'K', u'smell': u'E', u'Out': {u'taste': u'K', u'smell': u'u', u'see': u'o', u'hear': u'e', u'touch': u'e'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'w', u'see': u'A', u'hear': u'm', u'touch': u'e', u'smell': u'A', u'Out': {u'taste': u'G', u'smell': u'l', u'see': u'8', u'hear': u'r', u'touch': u'5'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'I', u'see': u'g', u'hear': u'd', u'touch': u'W', u'smell': u'P', u'Out': {u'taste': u'o', u'smell': u'n', u'see': u'Y', u'hear': u'y', u'touch': u'B'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'm', u'see': u'q', u'hear': u'H', u'touch': u'2', u'smell': u'q', u'Out': {u'taste': u'e', u'smell': u'e', u'see': u'e', u'hear': u'c', u'touch': u'g'}}}}
+Found in 'out': e
+Raw JSON: {u'data': {u'In': {u'taste': u'i', u'see': u'D', u'hear': u'I', u'touch': u'f', u'smell': u'V', u'Out': {u'taste': u'G', u'smell': u'A', u'see': u'3', u'hear': u'c', u'touch': u'6'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'y', u'see': u'p', u'hear': u'S', u'touch': u's', u'smell': u'B', u'Out': {u'taste': u'F', u'smell': u'k', u'see': u'q', u'hear': u'M', u'touch': u'F'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Z', u'see': u'l', u'hear': u'O', u'touch': u'S', u'smell': u'Q', u'Out': {u'taste': u'b', u'smell': u'R', u'see': u'L', u'hear': u'g', u'touch': u'D'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'K', u'see': u'l', u'hear': u'K', u'touch': u'K', u'smell': u'K', u'Out': {u'taste': u'o', u'smell': u'd', u'see': u's', u'hear': u'W', u'touch': u'W'}}}}
+Found in 'in': K
+Raw JSON: {u'data': {u'In': {u'taste': u'1', u'see': u'b', u'hear': u'w', u'touch': u'u', u'smell': u'o', u'Out': {u'taste': u'R', u'smell': u'R', u'see': u'R', u'hear': u'R', u'touch': u'R'}}}}
+Found in 'out': R
+Raw JSON: {u'data': {u'In': {u'taste': u'U', u'see': u'k', u'hear': u'x', u'touch': u'L', u'smell': u'F', u'Out': {u'taste': u'c', u'smell': u'W', u'see': u'C', u'hear': u'Q', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'w', u'see': u'9', u'hear': u'R', u'touch': u'4', u'smell': u'O', u'Out': {u'taste': u'V', u'smell': u'D', u'see': u'H', u'hear': u'F', u'touch': u'P'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'o', u'see': u'o', u'hear': u'w', u'touch': u'k', u'smell': u'C', u'Out': {u'taste': u'K', u'smell': u'p', u'see': u'd', u'hear': u'G', u'touch': u'G'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'8', u'see': u'c', u'hear': u'H', u'touch': u'w', u'smell': u'L', u'Out': {u'taste': u'3', u'smell': u'd', u'see': u'p', u'hear': u'x', u'touch': u'O'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'O', u'see': u'9', u'hear': u'D', u'touch': u'T', u'smell': u'd', u'Out': {u'taste': u'Z', u'smell': u'i', u'see': u'l', u'hear': u'm', u'touch': u'J'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'e', u'see': u't', u'hear': u'a', u'touch': u'd', u'smell': u'h', u'Out': {u'taste': u'h', u'smell': u'a', u'see': u'e', u'hear': u'd', u'touch': u't'}}}}
+Oh oh! Dead! Reset!
+Raw JSON: {u'data': {u'In': {u'taste': u'v', u'see': u'h', u'hear': u'6', u'touch': u'V', u'smell': u'J', u'Out': {u'taste': u'X', u'smell': u'0', u'see': u'7', u'hear': u'n', u'touch': u'h'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'k', u'see': u'F', u'hear': u't', u'touch': u'A', u'smell': u'6', u'Out': {u'taste': u'K', u'smell': u'7', u'see': u'q', u'hear': u'J', u'touch': u'T'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'k', u'see': u'K', u'hear': u'g', u'touch': u'S', u'smell': u'P', u'Out': {u'taste': u'Y', u'smell': u'5', u'see': u'w', u'hear': u'P', u'touch': u's'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u's', u'see': u's', u'hear': u's', u'touch': u'y', u'smell': u's', u'Out': {u'taste': u'i', u'smell': u'K', u'see': u'A', u'hear': u'T', u'touch': u'1'}}}}
+Found in 'in': s
+Raw JSON: {u'data': {u'In': {u'taste': u'C', u'see': u'b', u'hear': u'h', u'touch': u'x', u'smell': u'q', u'Out': {u'taste': u'C', u'smell': u'b', u'see': u'h', u'hear': u'z', u'touch': u'S'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'E', u'see': u'6', u'hear': u'L', u'touch': u'L', u'smell': u't', u'Out': {u'taste': u'A', u'smell': u'4', u'see': u'r', u'hear': u'3', u'touch': u's'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u't', u'hear': u't', u'touch': u't', u'smell': u't', u'Out': {u'taste': u'0', u'smell': u'K', u'see': u'H', u'hear': u'W', u'touch': u'5'}}}}
+Found in 'in': t
+Raw JSON: {u'data': {u'In': {u'taste': u'F', u'see': u'q', u'hear': u'i', u'touch': u'x', u'smell': u'H', u'Out': {u'taste': u'H', u'smell': u'v', u'see': u'5', u'hear': u'v', u'touch': u'd'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'z', u'see': u'y', u'hear': u'd', u'touch': u'n', u'smell': u'n', u'Out': {u'taste': u'n', u'smell': u'P', u'see': u's', u'hear': u'j', u'touch': u'T'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'7', u'see': u'3', u'hear': u'l', u'touch': u'j', u'smell': u'6', u'Out': {u'taste': u'C', u'smell': u'X', u'see': u'G', u'hear': u'y', u'touch': u'v'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'C', u'see': u'K', u'hear': u'n', u'touch': u'e', u'smell': u'x', u'Out': {u'taste': u'2', u'smell': u'L', u'see': u'q', u'hear': u'k', u'touch': u'h'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'1', u'hear': u'y', u'touch': u'F', u'smell': u'j', u'Out': {u'taste': u'6', u'smell': u'1', u'see': u'9', u'hear': u'D', u'touch': u'Q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'K', u'see': u'8', u'hear': u'4', u'touch': u'K', u'smell': u'c', u'Out': {u'taste': u'7', u'smell': u'a', u'see': u'k', u'hear': u'8', u'touch': u'F'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'f', u'see': u'3', u'hear': u'6', u'touch': u'b', u'smell': u'o', u'Out': {u'taste': u'T', u'smell': u'o', u'see': u'Q', u'hear': u'I', u'touch': u'g'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'd', u'see': u'7', u'hear': u'W', u'touch': u'T', u'smell': u'U', u'Out': {u'taste': u'd', u'smell': u'j', u'see': u'O', u'hear': u'E', u'touch': u'k'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'a', u'see': u'b', u'hear': u'4', u'touch': u'k', u'smell': u'M', u'Out': {u'taste': u'e', u'smell': u'L', u'see': u'H', u'hear': u'H', u'touch': u'8'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'8', u'see': u'N', u'hear': u'2', u'touch': u'O', u'smell': u'D', u'Out': {u'taste': u'E', u'smell': u'j', u'see': u'U', u'hear': u'A', u'touch': u'Q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'0', u'see': u'z', u'hear': u'Q', u'touch': u'B', u'smell': u'P', u'Out': {u'taste': u'F', u'smell': u'q', u'see': u'v', u'hear': u'G', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'5', u'see': u'm', u'hear': u'c', u'touch': u'c', u'smell': u'L', u'Out': {u'taste': u'r', u'smell': u'3', u'see': u'b', u'hear': u'L', u'touch': u'm'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'J', u'see': u'O', u'hear': u'm', u'touch': u'n', u'smell': u'L', u'Out': {u'taste': u'j', u'smell': u'T', u'see': u'u', u'hear': u'm', u'touch': u'c'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'M', u'see': u'P', u'hear': u'x', u'touch': u's', u'smell': u'P', u'Out': {u'taste': u'2', u'smell': u'Y', u'see': u'c', u'hear': u'd', u'touch': u'd'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'e', u'see': u'm', u'hear': u'P', u'touch': u'g', u'smell': u'E', u'Out': {u'taste': u'i', u'smell': u'0', u'see': u'W', u'hear': u'l', u'touch': u'O'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'N', u'see': u'5', u'hear': u'5', u'touch': u'5', u'smell': u'a', u'Out': {u'taste': u'9', u'smell': u'l', u'see': u'a', u'hear': u't', u'touch': u'f'}}}}
+Found in 'in': 5
+Raw JSON: {u'data': {u'In': {u'taste': u'V', u'see': u'5', u'hear': u'T', u'touch': u'2', u'smell': u'm', u'Out': {u'taste': u'K', u'smell': u'w', u'see': u'I', u'hear': u'8', u'touch': u'v'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'N', u'see': u'Z', u'hear': u's', u'touch': u'7', u'smell': u'E', u'Out': {u'taste': u'h', u'smell': u'v', u'see': u'F', u'hear': u'j', u'touch': u's'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'o', u'see': u'c', u'hear': u'f', u'touch': u'K', u'smell': u'F', u'Out': {u'taste': u'f', u'smell': u'F', u'see': u'A', u'hear': u'j', u'touch': u'5'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'V', u'hear': u'N', u'touch': u'M', u'smell': u'h', u'Out': {u'taste': u'L', u'smell': u'e', u'see': u'h', u'hear': u'O', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'd', u'see': u'h', u'hear': u'P', u'touch': u'3', u'smell': u'h', u'Out': {u'taste': u'C', u'smell': u'c', u'see': u'O', u'hear': u'Y', u'touch': u'T'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'b', u'see': u'K', u'hear': u'f', u'touch': u'I', u'smell': u'I', u'Out': {u'taste': u'9', u'smell': u'T', u'see': u't', u'hear': u'X', u'touch': u'O'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u's', u'see': u'k', u'hear': u'G', u'touch': u'T', u'smell': u'h', u'Out': {u'taste': u't', u'smell': u'd', u'see': u'2', u'hear': u'7', u'touch': u'x'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'B', u'see': u'X', u'hear': u'S', u'touch': u'a', u'smell': u'A', u'Out': {u'taste': u'B', u'smell': u'G', u'see': u'c', u'hear': u'0', u'touch': u'O'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Z', u'see': u'S', u'hear': u'F', u'touch': u'b', u'smell': u'b', u'Out': {u'taste': u'M', u'smell': u't', u'see': u'F', u'hear': u's', u'touch': u'T'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'g', u'see': u'6', u'hear': u'9', u'touch': u'0', u'smell': u'H', u'Out': {u'taste': u'4', u'smell': u'1', u'see': u'C', u'hear': u'r', u'touch': u'y'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'l', u'see': u'r', u'hear': u'z', u'touch': u'8', u'smell': u'o', u'Out': {u'taste': u'9', u'smell': u'9', u'see': u'F', u'hear': u'S', u'touch': u'1'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'T', u'see': u'c', u'hear': u'm', u'touch': u'O', u'smell': u'q', u'Out': {u'taste': u'9', u'smell': u'5', u'see': u'V', u'hear': u'F', u'touch': u'S'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'v', u'see': u'V', u'hear': u'Q', u'touch': u'g', u'smell': u'B', u'Out': {u'taste': u'f', u'smell': u'O', u'see': u'K', u'hear': u'e', u'touch': u'p'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'D', u'see': u'Z', u'hear': u'M', u'touch': u'o', u'smell': u'd', u'Out': {u'taste': u'M', u'smell': u'1', u'see': u'U', u'hear': u'D', u'touch': u'Q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'D', u'see': u'h', u'hear': u'G', u'touch': u'Y', u'smell': u'9', u'Out': {u'taste': u'R', u'smell': u'M', u'see': u'W', u'hear': u'Q', u'touch': u'O'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'N', u'see': u'i', u'hear': u't', u'touch': u'q', u'smell': u'H', u'Out': {u'taste': u'M', u'smell': u'Q', u'see': u'V', u'hear': u'i', u'touch': u'X'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'W', u'see': u'k', u'hear': u'o', u'touch': u't', u'smell': u'v', u'Out': {u'taste': u'X', u'smell': u'J', u'see': u'7', u'hear': u'C', u'touch': u'p'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'b', u'see': u'r', u'hear': u'V', u'touch': u'n', u'smell': u'V', u'Out': {u'taste': u'Y', u'smell': u'y', u'see': u'2', u'hear': u'v', u'touch': u'k'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'V', u'see': u'V', u'hear': u'V', u'touch': u'7', u'smell': u'V', u'Out': {u'taste': u'j', u'smell': u'6', u'see': u'4', u'hear': u'3', u'touch': u'Z'}}}}
+Found in 'in': V
+Raw JSON: {u'data': {u'In': {u'taste': u'w', u'see': u'b', u'hear': u'q', u'touch': u'S', u'smell': u'q', u'Out': {u'taste': u'S', u'smell': u'y', u'see': u'v', u'hear': u'H', u'touch': u'v'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'1', u'see': u'J', u'hear': u'0', u'touch': u'6', u'smell': u'8', u'Out': {u'taste': u'o', u'smell': u'U', u'see': u'Y', u'hear': u'A', u'touch': u'h'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'e', u'see': u'h', u'hear': u'T', u'touch': u'y', u'smell': u'n', u'Out': {u'taste': u'1', u'smell': u'B', u'see': u'x', u'hear': u'm', u'touch': u'D'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'a', u'hear': u'h', u'touch': u'e', u'smell': u'd', u'Out': {u'taste': u't', u'smell': u'e', u'see': u'a', u'hear': u'd', u'touch': u'h'}}}}
+Oh oh! Dead! Reset!
+Raw JSON: {u'data': {u'In': {u'taste': u'A', u'see': u'f', u'hear': u'4', u'touch': u'M', u'smell': u'K', u'Out': {u'taste': u'P', u'smell': u'q', u'see': u'c', u'hear': u'P', u'touch': u'i'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'5', u'see': u'L', u'hear': u'Z', u'touch': u'x', u'smell': u'm', u'Out': {u'taste': u'J', u'smell': u'b', u'see': u'P', u'hear': u'c', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'0', u'see': u'f', u'hear': u'w', u'touch': u'R', u'smell': u'G', u'Out': {u'taste': u'2', u'smell': u'm', u'see': u'0', u'hear': u'o', u'touch': u'7'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'P', u'see': u'E', u'hear': u'1', u'touch': u'Y', u'smell': u'8', u'Out': {u'taste': u'3', u'smell': u'U', u'see': u'u', u'hear': u'u', u'touch': u'q'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'j', u'see': u'T', u'hear': u'0', u'touch': u'x', u'smell': u'T', u'Out': {u'taste': u'r', u'smell': u'd', u'see': u'X', u'hear': u'R', u'touch': u'a'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Q', u'see': u'H', u'hear': u'4', u'touch': u'N', u'smell': u'J', u'Out': {u'taste': u'v', u'smell': u'y', u'see': u'D', u'hear': u'z', u'touch': u'y'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'q', u'see': u'0', u'hear': u'q', u'touch': u'5', u'smell': u'r', u'Out': {u'taste': u'v', u'smell': u'E', u'see': u'v', u'hear': u'T', u'touch': u'Y'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Q', u'see': u'B', u'hear': u'P', u'touch': u'U', u'smell': u'I', u'Out': {u'taste': u'S', u'smell': u'P', u'see': u'g', u'hear': u's', u'touch': u'e'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'X', u'see': u'Y', u'hear': u'R', u'touch': u'B', u'smell': u'T', u'Out': {u'taste': u'w', u'smell': u'N', u'see': u'w', u'hear': u'G', u'touch': u'4'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'v', u'see': u'm', u'hear': u'1', u'touch': u'y', u'smell': u'g', u'Out': {u'taste': u'O', u'smell': u'd', u'see': u'4', u'hear': u'r', u'touch': u'n'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'6', u'see': u'S', u'hear': u'W', u'touch': u'I', u'smell': u'k', u'Out': {u'taste': u'H', u'smell': u'o', u'see': u'1', u'hear': u'T', u'touch': u'n'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'T', u'see': u'P', u'hear': u'K', u'touch': u'K', u'smell': u'3', u'Out': {u'taste': u'C', u'smell': u'Z', u'see': u'4', u'hear': u'Z', u'touch': u'N'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'S', u'see': u'k', u'hear': u'1', u'touch': u'k', u'smell': u'c', u'Out': {u'taste': u's', u'smell': u'I', u'see': u'e', u'hear': u'q', u'touch': u'W'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'd', u'see': u'u', u'hear': u'h', u'touch': u'M', u'smell': u'K', u'Out': {u'taste': u'5', u'smell': u'h', u'see': u'Y', u'hear': u'l', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'L', u'see': u'8', u'hear': u'0', u'touch': u'j', u'smell': u'w', u'Out': {u'taste': u'2', u'smell': u'w', u'see': u'a', u'hear': u's', u'touch': u'm'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'q', u'see': u'k', u'hear': u'3', u'touch': u'u', u'smell': u'H', u'Out': {u'taste': u'W', u'smell': u'B', u'see': u'i', u'hear': u'0', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'B', u'see': u'1', u'hear': u'L', u'touch': u'1', u'smell': u'g', u'Out': {u'taste': u'M', u'smell': u'E', u'see': u'B', u'hear': u'6', u'touch': u'W'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'T', u'see': u'g', u'hear': u'X', u'touch': u'a', u'smell': u'I', u'Out': {u'taste': u'H', u'smell': u'T', u'see': u'N', u'hear': u'o', u'touch': u'N'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'C', u'see': u'w', u'hear': u'h', u'touch': u'm', u'smell': u'I', u'Out': {u'taste': u'R', u'smell': u'j', u'see': u'I', u'hear': u'j', u'touch': u'a'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'W', u'see': u'K', u'hear': u'm', u'touch': u'J', u'smell': u'F', u'Out': {u'taste': u'S', u'smell': u'v', u'see': u'X', u'hear': u'Q', u'touch': u'F'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'C', u'see': u'8', u'hear': u'T', u'touch': u'B', u'smell': u'C', u'Out': {u'taste': u'O', u'smell': u'C', u'see': u'I', u'hear': u'v', u'touch': u'e'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'L', u'see': u'v', u'hear': u'O', u'touch': u'v', u'smell': u'o', u'Out': {u'taste': u'U', u'smell': u'f', u'see': u'B', u'hear': u'O', u'touch': u'w'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'9', u'see': u'Q', u'hear': u'C', u'touch': u'F', u'smell': u'K', u'Out': {u'taste': u'j', u'smell': u'w', u'see': u'1', u'hear': u'H', u'touch': u'u'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'A', u'see': u'h', u'hear': u'j', u'touch': u'P', u'smell': u'9', u'Out': {u'taste': u'V', u'smell': u'2', u'see': u'b', u'hear': u'D', u'touch': u'h'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'P', u'see': u'S', u'hear': u'c', u'touch': u'S', u'smell': u'2', u'Out': {u'taste': u'q', u'smell': u'5', u'see': u'X', u'hear': u'd', u'touch': u'C'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'f', u'see': u'f', u'hear': u'9', u'touch': u'f', u'smell': u'f', u'Out': {u'taste': u'3', u'smell': u'Z', u'see': u'0', u'hear': u'l', u'touch': u'5'}}}}
+Found in 'in': f
+Raw JSON: {u'data': {u'In': {u'taste': u'a', u'see': u'z', u'hear': u'O', u'touch': u'x', u'smell': u'F', u'Out': {u'taste': u'K', u'smell': u'C', u'see': u'x', u'hear': u'N', u'touch': u'9'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'P', u'see': u'S', u'hear': u's', u'touch': u'6', u'smell': u'S', u'Out': {u'taste': u'S', u'smell': u'S', u'see': u'S', u'hear': u'S', u'touch': u'S'}}}}
+Found in 'out': S
+Raw JSON: {u'data': {u'In': {u'taste': u'n', u'see': u'0', u'hear': u'M', u'touch': u'U', u'smell': u'x', u'Out': {u'taste': u'b', u'smell': u'c', u'see': u'C', u'hear': u'D', u'touch': u'i'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'q', u'see': u'k', u'hear': u'P', u'touch': u'y', u'smell': u'f', u'Out': {u'taste': u'6', u'smell': u'5', u'see': u'h', u'hear': u'l', u'touch': u'H'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'm', u'see': u'r', u'hear': u'w', u'touch': u'8', u'smell': u'K', u'Out': {u'taste': u'D', u'smell': u'S', u'see': u'G', u'hear': u'F', u'touch': u'G'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'q', u'see': u'q', u'hear': u'r', u'touch': u'M', u'smell': u'C', u'Out': {u'taste': u'z', u'smell': u'h', u'see': u'i', u'hear': u'h', u'touch': u'K'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'E', u'see': u'L', u'hear': u'X', u'touch': u'U', u'smell': u'4', u'Out': {u'taste': u'r', u'smell': u'S', u'see': u'J', u'hear': u'e', u'touch': u'y'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'A', u'see': u'Y', u'hear': u'D', u'touch': u'B', u'smell': u'4', u'Out': {u'taste': u'4', u'smell': u'I', u'see': u'Z', u'hear': u'T', u'touch': u's'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'j', u'see': u'O', u'hear': u'a', u'touch': u'a', u'smell': u'l', u'Out': {u'taste': u'N', u'smell': u'U', u'see': u'U', u'hear': u'v', u'touch': u'o'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'z', u'see': u'4', u'hear': u'c', u'touch': u'1', u'smell': u'l', u'Out': {u'taste': u'r', u'smell': u'r', u'see': u'r', u'hear': u'I', u'touch': u'r'}}}}
+Found in 'out': r
+Raw JSON: {u'data': {u'In': {u'taste': u'c', u'see': u'P', u'hear': u'P', u'touch': u'P', u'smell': u'P', u'Out': {u'taste': u't', u'smell': u'o', u'see': u'2', u'hear': u'i', u'touch': u'F'}}}}
+Found in 'in': P
+Raw JSON: {u'data': {u'In': {u'taste': u'5', u'see': u'D', u'hear': u'p', u'touch': u'5', u'smell': u'8', u'Out': {u'taste': u'u', u'smell': u'X', u'see': u'c', u'hear': u'F', u'touch': u'n'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'a', u'see': u'h', u'hear': u'e', u'touch': u't', u'smell': u'd', u'Out': {u'taste': u'e', u'smell': u't', u'see': u'a', u'hear': u'h', u'touch': u'd'}}}}
+Oh oh! Dead! Reset!
+Raw JSON: {u'data': {u'In': {u'taste': u'a', u'see': u'G', u'hear': u'H', u'touch': u'd', u'smell': u'H', u'Out': {u'taste': u'f', u'smell': u'C', u'see': u'0', u'hear': u'N', u'touch': u'd'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'a', u'see': u'C', u'hear': u'P', u'touch': u'A', u'smell': u'F', u'Out': {u'taste': u'y', u'smell': u'K', u'see': u'V', u'hear': u'X', u'touch': u'B'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'S', u'see': u'h', u'hear': u'h', u'touch': u'P', u'smell': u'w', u'Out': {u'taste': u't', u'smell': u'D', u'see': u'1', u'hear': u'J', u'touch': u't'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'E', u'see': u'E', u'hear': u'E', u'touch': u'E', u'smell': u'p', u'Out': {u'taste': u'6', u'smell': u'X', u'see': u'6', u'hear': u'g', u'touch': u'B'}}}}
+Found in 'in': E
+Raw JSON: {u'data': {u'In': {u'taste': u'm', u'see': u'p', u'hear': u'Q', u'touch': u'A', u'smell': u'8', u'Out': {u'taste': u'8', u'smell': u'S', u'see': u'3', u'hear': u'p', u'touch': u'v'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'v', u'see': u'S', u'hear': u'M', u'touch': u'O', u'smell': u'0', u'Out': {u'taste': u'a', u'smell': u'K', u'see': u'p', u'hear': u'q', u'touch': u'W'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'o', u'see': u'O', u'hear': u'L', u'touch': u'2', u'smell': u'o', u'Out': {u'taste': u'Z', u'smell': u'i', u'see': u'b', u'hear': u'0', u'touch': u'v'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'i', u'see': u'3', u'hear': u'8', u'touch': u'4', u'smell': u'M', u'Out': {u'taste': u'7', u'smell': u'Y', u'see': u't', u'hear': u'7', u'touch': u'T'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'N', u'see': u'M', u'hear': u'C', u'touch': u'q', u'smell': u'w', u'Out': {u'taste': u'z', u'smell': u'Z', u'see': u'3', u'hear': u'Y', u'touch': u'a'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u'S', u'hear': u'j', u'touch': u'G', u'smell': u'D', u'Out': {u'taste': u'a', u'smell': u'Q', u'see': u'0', u'hear': u'e', u'touch': u'i'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'G', u'see': u'I', u'hear': u'S', u'touch': u'w', u'smell': u'2', u'Out': {u'taste': u'p', u'smell': u'v', u'see': u'9', u'hear': u'V', u'touch': u'g'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'H', u'see': u'I', u'hear': u'G', u'touch': u'z', u'smell': u'E', u'Out': {u'taste': u'u', u'smell': u'd', u'see': u's', u'hear': u'J', u'touch': u'r'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'B', u'see': u'S', u'hear': u'Q', u'touch': u'6', u'smell': u'I', u'Out': {u'taste': u'n', u'smell': u't', u'see': u'm', u'hear': u'2', u'touch': u'm'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'0', u'see': u'0', u'hear': u'0', u'touch': u'0', u'smell': u'0', u'Out': {u'taste': u'e', u'smell': u'9', u'see': u'6', u'hear': u'Y', u'touch': u'l'}}}}
+Found in 'in': 0
+Raw JSON: {u'data': {u'In': {u'taste': u'M', u'see': u'7', u'hear': u'B', u'touch': u'L', u'smell': u'a', u'Out': {u'taste': u'l', u'smell': u'l', u'see': u'l', u'hear': u'l', u'touch': u'l'}}}}
+Found in 'out': l
+Raw JSON: {u'data': {u'In': {u'taste': u'y', u'see': u'w', u'hear': u'0', u'touch': u'w', u'smell': u'C', u'Out': {u'taste': u'V', u'smell': u'u', u'see': u'h', u'hear': u'w', u'touch': u'X'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'9', u'see': u'r', u'hear': u'9', u'touch': u'H', u'smell': u'9', u'Out': {u'taste': u'z', u'smell': u'd', u'see': u'c', u'hear': u'D', u'touch': u'V'}}}}
+Found in 'in': 9
+Raw JSON: {u'data': {u'In': {u'taste': u'e', u'see': u'd', u'hear': u'h', u'touch': u'a', u'smell': u't', u'Out': {u'taste': u'd', u'smell': u'e', u'see': u'a', u'hear': u't', u'touch': u'h'}}}}
+Oh oh! Dead! Reset!
+Raw JSON: {u'data': {u'In': {u'taste': u'R', u'see': u'U', u'hear': u'4', u'touch': u'n', u'smell': u'u', u'Out': {u'taste': u'j', u'smell': u'7', u'see': u'B', u'hear': u'6', u'touch': u'c'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Q', u'see': u'h', u'hear': u'S', u'touch': u'p', u'smell': u'8', u'Out': {u'taste': u'X', u'smell': u'5', u'see': u'u', u'hear': u'7', u'touch': u'3'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'h', u'see': u'h', u'hear': u'q', u'touch': u'A', u'smell': u'z', u'Out': {u'taste': u'v', u'smell': u'8', u'see': u'T', u'hear': u'u', u'touch': u'w'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'B', u'see': u'B', u'hear': u'b', u'touch': u'a', u'smell': u'F', u'Out': {u'taste': u'v', u'smell': u'd', u'see': u'v', u'hear': u'v', u'touch': u'v'}}}}
+Found in 'out': v
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'Z', u'hear': u'Z', u'touch': u'E', u'smell': u'V', u'Out': {u'taste': u'K', u'smell': u'T', u'see': u'R', u'hear': u't', u'touch': u'V'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'm', u'see': u'S', u'hear': u'v', u'touch': u'h', u'smell': u'e', u'Out': {u'taste': u'0', u'smell': u'S', u'see': u'n', u'hear': u'p', u'touch': u'P'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'w', u'see': u't', u'hear': u'v', u'touch': u'I', u'smell': u'6', u'Out': {u'taste': u'W', u'smell': u'K', u'see': u'c', u'hear': u'j', u'touch': u'n'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'f', u'see': u'E', u'hear': u'3', u'touch': u'P', u'smell': u'R', u'Out': {u'taste': u'D', u'smell': u't', u'see': u't', u'hear': u't', u'touch': u'f'}}}}
+Found in 'out': t
+Raw JSON: {u'data': {u'In': {u'taste': u'c', u'see': u'l', u'hear': u'N', u'touch': u'H', u'smell': u'2', u'Out': {u'taste': u'P', u'smell': u'y', u'see': u'6', u'hear': u'4', u'touch': u'6'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'A', u'see': u't', u'hear': u'W', u'touch': u'Q', u'smell': u'c', u'Out': {u'taste': u'E', u'smell': u'Y', u'see': u'd', u'hear': u'G', u'touch': u'7'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'i', u'see': u'd', u'hear': u'Y', u'touch': u'd', u'smell': u'U', u'Out': {u'taste': u'J', u'smell': u'n', u'see': u'p', u'hear': u'r', u'touch': u'a'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'P', u'see': u'D', u'hear': u'V', u'touch': u'2', u'smell': u'G', u'Out': {u'taste': u'I', u'smell': u'Q', u'see': u'2', u'hear': u'E', u'touch': u's'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'T', u'see': u'5', u'hear': u'V', u'touch': u'3', u'smell': u'1', u'Out': {u'taste': u'U', u'smell': u'U', u'see': u'U', u'hear': u'U', u'touch': u'b'}}}}
+Found in 'out': U
+Raw JSON: {u'data': {u'In': {u'taste': u'p', u'see': u'M', u'hear': u'h', u'touch': u'c', u'smell': u'S', u'Out': {u'taste': u'S', u'smell': u'N', u'see': u'A', u'hear': u'b', u'touch': u'a'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'L', u'see': u'y', u'hear': u'p', u'touch': u'C', u'smell': u'L', u'Out': {u'taste': u'M', u'smell': u'B', u'see': u'P', u'hear': u'y', u'touch': u'6'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'j', u'see': u'0', u'hear': u'B', u'touch': u'j', u'smell': u'f', u'Out': {u'taste': u'm', u'smell': u'P', u'see': u't', u'hear': u'2', u'touch': u'c'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'Q', u'see': u'i', u'hear': u'F', u'touch': u'C', u'smell': u'0', u'Out': {u'taste': u'j', u'smell': u't', u'see': u'6', u'hear': u'E', u'touch': u'R'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'j', u'see': u'F', u'hear': u'h', u'touch': u'9', u'smell': u'A', u'Out': {u'taste': u'U', u'smell': u'H', u'see': u'J', u'hear': u'J', u'touch': u'W'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'6', u'see': u'8', u'hear': u'2', u'touch': u'p', u'smell': u'K', u'Out': {u'taste': u'q', u'smell': u'v', u'see': u'V', u'hear': u'q', u'touch': u'z'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'q', u'see': u'D', u'hear': u'h', u'touch': u'S', u'smell': u'P', u'Out': {u'taste': u'T', u'smell': u'N', u'see': u'A', u'hear': u'8', u'touch': u'k'}}}}
+Raw JSON: {u'data': {u'In': {u'taste': u'R', u'see': u'R', u'hear': u'z', u'touch': u'o', u'smell': u'R', u'Out': {u'taste': u'D', u'smell': u'v', u'see': u'j', u'hear': u'd', u'touch': u'2'}}}}
+Found in 'in': R
+Raw JSON: {u'data': {u'In': {u'taste': u't', u'see': u'a', u'hear': u'h', u'touch': u'd', u'smell': u'e', u'Out': {u'taste': u'e', u'smell': u'h', u'see': u't', u'hear': u'd', u'touch': u'a'}}}}
+Oh oh! Dead! Reset!
