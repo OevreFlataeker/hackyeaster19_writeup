@@ -1,3 +1,5 @@
+See full writeup!
+
 "xdotool sleep 0.4; xdotool type --clearmodifiers 'go east'; xdotool key --clearmodifiers Return; xdotool type --clearmodifiers search; xdotool key --clearmodifiers Return;"
   c:114 + m:0x4
 
